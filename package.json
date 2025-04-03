@@ -1,0 +1,12 @@
+{
+  "name": "firewall-consumer-v2",
+  "version": "2.0.0",
+  "author": "IRONBLOCKS LTD",
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "@openzeppelin/contracts": "4.9.3",
+    "@openzeppelin/contracts-upgradeable": "4.9.3",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.19"
+  }
+}
