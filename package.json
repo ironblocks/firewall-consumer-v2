@@ -1,5 +1,5 @@
 {
-  "name": "firewall-consumer-v2",
+  "name": "@ironblocks/firewall-consumer-v2",
   "version": "2.0.0",
   "author": "IRONBLOCKS LTD",
   "license": "SEE LICENSE IN LICENSE",
