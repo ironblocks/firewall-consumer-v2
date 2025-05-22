@@ -8,5 +8,20 @@
     "@openzeppelin/contracts-upgradeable": "4.9.3",
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "hardhat": "^2.22.19"
-  }
+  },
+  "repository": {
+    "url": "https://github.com/ironblocks/onchain-firewall-v2",
+    "directory": "contracts/consumers"
+  },
+  "keywords": [
+    "ethereum",
+    "smart-contracts",
+    "hardhat",
+    "firewall",
+    "security"
+  ],
+  "bugs": {
+    "url": "https://github.com/ironblocks/onchain-firewall-v2/issues"
+  },
+  "homepage": "https://github.com/ironblocks/onchain-firewall-v2/#readme"
 }
